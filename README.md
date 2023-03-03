@@ -12,6 +12,3 @@ We'll also pass strings with special symbols, such as `"2A3*3a2"`, `"2A3 3a2"`, 
 
 Submit a pull request to the main branch with your solution. Do not modify the tests. Once you have created a PR with passing tests, then you have successfully completed the exercise.
 
-### Troubleshooting
-
-If you cannot see any auto-grading workflows on the [Actions](../../actions) page, learn how to fix it in [this repo](https://github.com/microverse-students/autograding-troubles-js/blob/main/README.md).
